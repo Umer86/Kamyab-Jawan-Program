@@ -1,0 +1,16 @@
+Patient ID,Age,Sex,BP,Cholesterol,Drug
+p1,Young,F,High,Normal,Drug A
+p2,Young,F,High,High,Drug A
+p3,Middle-age,F,Hiigh,Normal,Drug B
+p4,Senior,F,Normal,Normal,Drug B
+p5,Senior,M,Low,Normal,Drug B
+p6,Senior,M,Low,High,Drug A
+p7,Middle-age,M,Low,High,Drug B
+p8,Young,F,Normal,Normal,Drug A
+p9,Young,M,Low,Normal,Drug B
+p10,Senior,M,Normal,Normal,Drug B
+p11,Young,M,Normal,High,Drug B
+p12,Middle-age,F,Normal,High,Drug B
+p13,Middle-age,M,High,Normal,Drug B
+p14,Senior,F,Normal,High,Drug A
+p15,Middle-age,F,Low,Normal,?
